@@ -12,7 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I'm **Sahidul**, a passionate developer from Bangladesh focused on building scalable web applications  and exploring **AI with TensorFlow.js**.
+#### I'm **Sahidul**, a passionate developer from Bangladesh focused on building scalable web applications  and exploring **AI with TensorFlow.js**.
 
 I love solving real-world problems, creating clean UI/UX, and learning cutting-edge technologies that help me grow as a mern-stack developer.
 
