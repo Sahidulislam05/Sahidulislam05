@@ -1,8 +1,11 @@
-<!-- ===================== BANNER ===================== 
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/0JmJwCP/your-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/wNW6GdVR/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" 
+       alt="Sahidul Islam Banner" 
+       width="100%" />
 </p>
--->
+
+
 <h1 align="center">Hi, I'm Sahidul Islam</h1>
 <h2 align="center">MERN Stack Developer | Python Enthusiast | AI & TensorFlow.js Learner</h2>
 <h3 align="center">President — TPI Computer Club</h3>
