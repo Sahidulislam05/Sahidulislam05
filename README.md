@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Sahidul Islam</h1>
-<h2 align="center">MERN Stack Developer | Python Enthusiast | AI & TensorFlow.js Learner</h2>
+<h2 align="center">MERN Stack Developer| AI & ML Learner </h2>
 <h3 align="center">President — TPI Computer Club</h3>
 
 ---
