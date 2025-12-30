@@ -2,14 +2,14 @@
   <img src="https://i.ibb.co.com/wNW6GdVR/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" 
        alt="Sahidul Islam Banner" 
        width="100%" 
-       style="border-radius: 10px;" />
+        />
 </div>
 
 <br/>
 
 <div align="center">
   <h1>Hi there, I'm Sahidul Islam</h1>
-  <h3>🧑‍💻 Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
+  <h3>🖥️ Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
   <h4>President — TPI Computer Club</h4>
 
   <a href="https://linkedin.com/in/sahidulislam05">
@@ -84,20 +84,20 @@ Here are the technologies I work with:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahidulislam05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sahidul's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidulislam05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahidulislam05&show_icons=true&theme=tokyonight&count_private=true" alt="Sahidul's Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidulislam05&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahidulislam05&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahidulislam05&theme=tokyonight" alt="Streak Stats" />
 </div>
 
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahidulislam05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sahidulislam05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
   <p><i>Let's build something amazing together!</i> 🚀</p>
 </div>
