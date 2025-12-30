@@ -52,7 +52,6 @@ Here are the technologies I work with:
   </a>
 </p>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 
 ### 🛠️ Backend & Database
 <p>
