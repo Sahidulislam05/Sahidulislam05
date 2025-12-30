@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co.com/wNW6GdVR/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" 
+  <img src="[https://i.ibb.co.com/wNW6GdVR/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png](https://i.ibb.co.com/j9yYr4Gx/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png)" 
        alt="Sahidul Islam Banner" 
        width="100%" />
 </p>
