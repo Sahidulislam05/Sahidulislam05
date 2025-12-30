@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0b1f550d-b9cc-4c19-abb8-7a568485fb3a" 
+  <img src="https://github.com/user-attachments/assets/b016b2e6-c6fa-45e2-9373-f637cde30fab" 
        alt="Sahidul Islam Banner" 
        width="100%" 
         />
