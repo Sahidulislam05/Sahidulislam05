@@ -1,101 +1,103 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co.com/wNW6GdVR/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" 
        alt="Sahidul Islam Banner" 
-       width="100%" />
-</p>
+       width="100%" 
+       style="border-radius: 10px;" />
+</div>
 
-<h1 align="center">Hi, I'm Sahidul Islam</h1>
-<h2 align="center">MERN Stack Developer | AI & ML Learner </h2>
-<h3 align="center">President — TPI Computer Club</h3>
+<br/>
 
----
+<div align="center">
+  <h1>Hi there, I'm Sahidul Islam</h1>
+  <h3>🚀 Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
+  <h4>President — TPI Computer Club</h4>
 
-## 🧑‍💻 About Me  
-#### I'm **Sahidul**, a passionate developer from Bangladesh focused on building scalable web applications  and exploring **AI with TensorFlow.js**.
-
-I love solving real-world problems, creating clean UI/UX, and learning cutting-edge technologies that help me grow as a mern-stack developer.
-
----
-
-## 🔥 What I'm Currently Doing  
-- 🚀 Exploring **Next.js & MERN Advanced Patterns**  
-- 🤖 Learning **TensorFlow.js** (browser-based deep learning)  
-- 🌍 Building a **Product Delivery Service Web App** using MERN  
-- ☕ Practicing **Java, Python OOP, Backend & DSA**  
-- 🐍 Enhancing logical skills with **Python**  
-- 🎨 Designing modern UI with **Tailwind & Figma**  
-- 💼 Serving as **President — TPI Computer Club**  
-
+  <a href="https://linkedin.com/in/sahidulislam05">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahidulislamcst@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sahidulislam05">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-# ⚡ Tech Stack
+## 👨‍💻 About Me
 
-## 🎨 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
-</p>
-
-## 🛠️ Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" />
-</p>
-
-## ☕ Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,java,python" />
-</p>
-
-## 🤖 Machine Learning / AI  
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-## 🔧 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-## ⚙️ Extra Skills  
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+I am a passionate **Full Stack Developer** from Bangladesh, dedicated to building scalable and user-friendly web applications. My expertise lies in the **MERN Stack** and **Next.js**, and I am currently expanding my horizons into **DevOps (Docker)** and **SQL Databases**. I also lead the TPI Computer Club, fostering a community of tech learners.
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/sahidulislam05" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<!-- <a href="https://leetcode.com/sahidul_islam05" target="blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-</a> -->
-<a href="sahidulislamcst@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-<a href="https://github.com/sahidulislam05">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-</p>
+## 🔥 What I'm Currently Working On
+
+- 🔭 **Building:** A comprehensive **Tourism Website** using Next.js & Tailwind.
+- 🚀 **Exploring:** Advanced **Docker** containerization & **PostgreSQL** with **Prisma ORM**.
+- 🛠 **Learning:** Deep diving into **System Design** and **Microservices**.
+- 🤖 **AI/ML:** Experimenting with **TensorFlow.js** for browser-based AI integration.
+- 💼 **Leading:** Mentoring students as the **President of TPI Computer Club**.
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Technical Skills
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahidulislam05&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidulislam05&layout=compact&theme=tokyonight" />
+Here are the technologies I work with:
+
+### 🎨 Frontend Development
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,html,css,figma" />
+  </a>
+</p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
+### 🛠️ Backend & Database
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  </a>
+</p>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+
+### ☕ Languages & AI
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,tensorflow" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahidulislam05&theme=tokyonight" />
+### 🔧 DevOps & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,vercel" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahidulislam05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahidulislam05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sahidul's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidulislam05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahidulislam05&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahidulislam05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  <p><i>Let's build something amazing together!</i> 🚀</p>
+</div>
