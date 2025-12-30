@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Sahidul Islam</h1>
-  <h3>🖥️ MERN Stack, Next.js Developer | AI Enthusiast</h3>
+  <h3>🖥️ Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
   <h4>President — TPI Computer Club</h4>
 
   <a href="https://www.linkedin.com/in/sahidulislam05">
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** from Bangladesh, dedicated to building scalable and user-friendly web applications. My expertise lies in the **MERN Stack** and **Next.js**, and I am currently expanding my horizons into **DevOps (Docker)** and **SQL Databases**. I also lead the TPI Computer Club, fostering a community of tech learners.
+I am a passionate **Full Stack Developer** from Bangladesh, dedicated to building scalable and user-friendly web applications. My expertise lies in the **MERN Stack** and **Next.js**, and I am currently expanding my horizons into **DevOps (Docker)** and **SQL Databases**. I also lead the TPI Computer Club, fostering a community of tech learners.
 
 ---
 
