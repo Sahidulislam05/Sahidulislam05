@@ -33,7 +33,7 @@ I am a passionate **MERN Stack Developer** from Bangladesh, dedicated to buildin
 
 ## 🔥 What I'm Currently Working On
 
-- 🔭 **Building:** A comprehensive **Tourism Website** using Next.js & Tailwind.
+- 🔭 **Building:** A comprehensive **Ecommerce Application** using Next.js & TypeScript.
 - 🚀 **Exploring:** Advanced **Docker** containerization & **PostgreSQL** with **Prisma ORM**.
 - 🛠 **Learning:** Deep diving into **System Design** and **Microservices**.
 - 🤖 **AI/ML:** Experimenting with **TensorFlow.js** for browser-based AI integration.
