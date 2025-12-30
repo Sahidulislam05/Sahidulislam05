@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Sahidul Islam</h1>
-  <h3>🚀 Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
+  <h3>🧑‍💻 Full Stack Developer (MERN & Next.js) | AI Enthusiast</h3>
   <h4>President — TPI Computer Club</h4>
 
   <a href="https://linkedin.com/in/sahidulislam05">
